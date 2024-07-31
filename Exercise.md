@@ -15,7 +15,7 @@ Follow these steps to register and set up an account with Matillion.
 
 You are now a registered user of the Matillion Hub and are automatically enrolled in the 14-day free trial.
 
-### What's next?
+### Next steps
 
 - [Change Email Address](https://docs.matillion.com/data-productivity-cloud/hub/docs/change-email-address/)
 - [Edit User Permissions](https://docs.matillion.com/data-productivity-cloud/hub/docs/edit-user-permissions/)
