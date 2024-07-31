@@ -23,4 +23,4 @@ You are now a registered user of the Matillion Hub and are automatically enrolle
 
 ### Help and Support
 
-If you need help or have questions, check out our [support resources](https://support.matillion.com/) or contact our [customer support team](https://support.matillion.com/).
+If you need help or have questions contact our [customer support team](https://support.matillion.com/).
